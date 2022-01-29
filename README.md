@@ -1,5 +1,5 @@
 # kubernetes
-云原生训练营
+云原生训练营课程完整版
 kubernetes
 docker
 极客时间
